@@ -65,7 +65,7 @@ The platform delivered a single source of truth for business decision-making acr
 
 ## Dashboard Portfolio
 
-### Menu Analytics Dashboard
+### 1. Menu Analytics Dashboard
 
 Business Objective:
 
@@ -90,7 +90,7 @@ Business Impact:
 - Supported revenue growth initiatives
 
 
-### Customer Concerns Analytics Dashboard
+### 2. Customer Concerns Analytics Dashboard
 
 Data Sources:
 
@@ -113,7 +113,7 @@ Business Impact:
 - Enhanced service quality
 
 
-### Ideal vs Actual Consumption Dashboard
+### 3. Ideal vs Actual Consumption Dashboard
 
 Business Objective:
 
@@ -135,7 +135,7 @@ Business Impact:
 
 
 
-### Kitchen Processing Time (KPT) Dashboard
+### 4. Kitchen Processing Time (KPT) Dashboard
 
 Business Objective:
 
@@ -156,7 +156,7 @@ Business Impact:
 
 
 
-### Profit & Loss Analytics Dashboard
+### 5. Profit & Loss Analytics Dashboard
 
 Business Objective:
 
@@ -178,7 +178,7 @@ Business Impact:
 
 
 
-### Training & Audit Compliance Dashboard
+### 6. Training & Audit Compliance Dashboard
 
 Business Objective:
 
@@ -199,7 +199,7 @@ Business Impact:
 
 
 
-### Top Gun Store Ranking Dashboard
+### 7. Top Gun Store Ranking Dashboard
 
 Business Objective:
 
@@ -220,7 +220,7 @@ Business Impact:
 
 
 
-### Cancelled Orders Analytics Dashboard
+### 8. Cancelled Orders Analytics Dashboard
 
 Business Objective:
 
@@ -240,7 +240,7 @@ Business Impact:
 
 
 
-### Operations Support Leadership (OSL) Dashboard
+### 9. Operations Support Leadership (OSL) Dashboard
 
 Business Objective:
 
@@ -260,7 +260,7 @@ Business Impact:
 
 
 
-### Workforce Attrition Dashboard
+### 10. Workforce Attrition Dashboard
 
 Business Objective:
 
@@ -280,7 +280,7 @@ Business Impact:
 
 
 
-### Ratings Analytics Dashboard
+### 11. Ratings Analytics Dashboard
 
 Data Sources:
 
@@ -300,7 +300,7 @@ Business Impact:
 
 
 
-### Dispatch Performance Dashboard
+### 12. Dispatch Performance Dashboard
 
 Business Objective:
 
@@ -320,7 +320,7 @@ Business Impact:
 
 
 
-  ### Sales Orders Analytics Dashboard
+  ### 13. Sales Orders Analytics Dashboard
 
 Key Metrics:
 
